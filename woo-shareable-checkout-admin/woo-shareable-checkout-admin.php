@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: WooCommerce Shareable Checkout URL Generator
- * Plugin URI: https://github.com/your-repo/woo-shareable-checkout-admin
+ * Plugin URI: https://github.com/2xffwd/woo-shareable-checkout-url/
  * Description: Enables administrators and shop managers to generate shareable checkout URLs from their test carts.
  * Version: 1.0.0
  * Requires at least: 6.8.1
  * Requires PHP: 8.1
  * Author: 2xffwd
- * Author URI: https://yourwebsite.com
+ * Author URI: https://github.com/2xffwd/woo-shareable-checkout-url/
  * License: GPL v3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: woo-shareable-checkout-admin
