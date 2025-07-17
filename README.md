@@ -2,6 +2,9 @@
 
 A lightweight WordPress plugin that enables administrators and shop managers to generate shareable checkout URLs from their test carts using WooCommerce 10.0+'s native shareable checkout feature.
 
+[![WordPress Version](https://img.shields.io/badge/Requires%20WP-5.5%2B-blue)]()
+[![WooCommerce Version](https://img.shields.io/badge/Requires%20WC-10.0%2B-blue)]()
+
 ## 🚀 Features
 
 - **One-click URL generation** from cart page admin bar
