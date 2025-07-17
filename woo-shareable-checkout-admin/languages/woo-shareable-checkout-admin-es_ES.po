@@ -1,0 +1,78 @@
+# Copyright (C) 2025 WooCommerce Shareable Checkout URL Generator
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Shareable Checkout URL Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/your-repo/woo-shareable-checkout-"
+"admin/issues\n"
+"POT-Creation-Date: 2025-01-01 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-07-17 00:45+0000\n"
+"Last-Translator: RC Adventure\n"
+"Language-Team: Spanish (Spain)\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.1.33"
+
+#: woo-shareable-checkout-admin.php:35
+msgid ""
+"WooCommerce Shareable Checkout URL Generator requires WooCommerce to be "
+"installed and active."
+msgstr ""
+"El Generador de URLs Compartibles de Finalización de WooCommerce requiere "
+"que WooCommerce esté instalado y activo."
+
+#: woo-shareable-checkout-admin.php:41
+msgid ""
+"WooCommerce Shareable Checkout URL Generator requires WooCommerce 10.0.0 or "
+"higher."
+msgstr ""
+"El Generador de URLs Compartibles de Finalización de WooCommerce requiere "
+"WooCommerce 10.0.0 o superior."
+
+#: woo-shareable-checkout-admin.php:82 woo-shareable-checkout-admin.php:89
+msgid "Cloning is forbidden."
+msgstr "La clonación está prohibida."
+
+#: woo-shareable-checkout-admin.php:89
+msgid "Unserializing instances is forbidden."
+msgstr "La deserialización de instancias está prohibida."
+
+#: includes/class-wscug-admin-bar.php:49
+msgid "Copy Checkout Link"
+msgstr "Copiar Enlace de Finalización"
+
+#: includes/class-wscug-admin-bar.php:53
+msgid "Generate and copy shareable checkout URL"
+msgstr "Generar y copiar URL compartible de finalización"
+
+#: includes/class-wscug-admin-bar.php:75
+msgid "Checkout link copied!"
+msgstr "¡Enlace de finalización copiado!"
+
+#: includes/class-wscug-admin-bar.php:76
+msgid "Failed to copy link. Please try again."
+msgstr "Error al copiar el enlace. Por favor, inténtalo de nuevo."
+
+#: includes/class-wscug-admin-bar.php:77
+msgid "Cart is empty. Add products to generate a link."
+msgstr "El carrito está vacío. Agrega productos para generar un enlace."
+
+#: includes/class-wscug-admin-bar.php:78
+msgid "An error occurred. Please try again."
+msgstr "Ocurrió un error. Por favor, inténtalo de nuevo."
+
+#: includes/class-wscug-admin-bar.php:96
+msgid "Security check failed."
+msgstr "Falló la verificación de seguridad."
+
+#: includes/class-wscug-admin-bar.php:101
+msgid "Insufficient permissions."
+msgstr "Permisos insuficientes."
+
+#: includes/class-wscug-admin-bar.php:108
+msgid "Failed to generate URL."
+msgstr "Error al generar la URL."

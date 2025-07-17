@@ -1,0 +1,70 @@
+# Copyright (C) 2025 WooCommerce Shareable Checkout URL Generator
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Shareable Checkout URL Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/your-repo/woo-shareable-checkout-admin/issues\n"
+"POT-Creation-Date: 2025-01-01 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Manual\n"
+
+#: woo-shareable-checkout-admin.php:35
+msgid "WooCommerce Shareable Checkout URL Generator requires WooCommerce to be installed and active."
+msgstr ""
+
+#: woo-shareable-checkout-admin.php:41
+msgid "WooCommerce Shareable Checkout URL Generator requires WooCommerce 10.0.0 or higher."
+msgstr ""
+
+#: woo-shareable-checkout-admin.php:82 woo-shareable-checkout-admin.php:89
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: woo-shareable-checkout-admin.php:89
+msgid "Unserializing instances is forbidden."
+msgstr ""
+
+#: woo-shareable-checkout-admin.php:114
+msgid "WooCommerce Shareable Checkout URL Generator requires WooCommerce to be installed and active."
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:49
+msgid "Copy Checkout Link"
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:53
+msgid "Generate and copy shareable checkout URL"
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:75
+msgid "Checkout link copied!"
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:76
+msgid "Failed to copy link. Please try again."
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:77
+msgid "Cart is empty. Add products to generate a link."
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:78
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:96
+msgid "Security check failed."
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:101
+msgid "Insufficient permissions."
+msgstr ""
+
+#: includes/class-wscug-admin-bar.php:108
+msgid "Failed to generate URL."
+msgstr ""

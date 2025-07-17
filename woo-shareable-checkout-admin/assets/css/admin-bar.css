@@ -1,0 +1,56 @@
+/**
+ * WooCommerce Shareable Checkout URL Generator - Admin Bar Styles
+ *
+ * @package WooCommerce_Shareable_Checkout_Admin
+ * @since 1.0.0
+ */
+
+/* Admin bar button */
+#wp-admin-bar-wscug-copy-checkout-link .ab-icon {
+	margin-right: 5px !important;
+	vertical-align: middle;
+}
+
+#wp-admin-bar-wscug-copy-checkout-link .ab-icon:before {
+	font-family: dashicons;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+#wp-admin-bar-wscug-copy-checkout-link.wscug-loading .ab-icon:before {
+	content: "\f463";
+	animation: wscug-spin 1s linear infinite;
+}
+
+/* Feedback messages */
+.wscug-message {
+	position: absolute;
+	background: #333;
+	color: #fff;
+	padding: 10px 15px;
+	border-radius: 3px;
+	font-size: 14px;
+	z-index: 99999;
+	display: none;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.wscug-message-success {
+	background: #46b450;
+}
+
+.wscug-message-error {
+	background: #dc3232;
+}
+
+/* Animation */
+@keyframes wscug-spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+/* RTL Support */
+.rtl #wp-admin-bar-wscug-copy-checkout-link .ab-icon {
+	margin-left: 5px !important;
+	margin-right: 0 !important;
+}
